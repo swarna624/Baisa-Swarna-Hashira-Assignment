@@ -90,8 +90,5 @@ Test Case 1 -> Secret: 30
 Test Case 2 -> Secret: 20
 ```
 
-## License
-
-This project is open-source under the MIT License.
 
 

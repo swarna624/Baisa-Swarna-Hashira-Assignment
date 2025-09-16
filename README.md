@@ -1,4 +1,4 @@
-# Polynomial Constant Term Finder
+# Baisa-Swarna-Hashira-Assignment
 
 This project implements a simplified version of Shamir's Secret Sharing algorithm to find the constant term of a polynomial using Lagrange interpolation. Given a set of points encoded in a JSON format with different bases, this tool decodes the points, performs interpolation, and calculates the constant term.
 
@@ -93,4 +93,5 @@ Test Case 2 -> Secret: 20
 ## License
 
 This project is open-source under the MIT License.
+
 

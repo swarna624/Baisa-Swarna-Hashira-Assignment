@@ -28,14 +28,6 @@ Given a minimum number of points \((x, y)\) that lie on this polynomial, the pro
 3. **Output**:
    The final constant term \( c \) is printed for each test case.
 
-## Installation
-
-1. Clone the repository:
-
-   ```bash
-   git clone https://github.com/ShishirShekhar/PolynomialConstantTermFinder.git
-   cd PolynomialConstantTermFinder
-   ```
 
 ## Usage
 
@@ -94,10 +86,11 @@ For detailed information on Lagrange interpolation, refer to the `lagrangeInterp
 ## Sample Output
 
 ```bash
-The secret (constant term c) is: 23
-The secret (constant term c) is: 47
+Test Case 1 -> Secret: 30
+Test Case 2 -> Secret: 20
 ```
 
 ## License
 
 This project is open-source under the MIT License.
+
